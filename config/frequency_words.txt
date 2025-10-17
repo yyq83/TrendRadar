@@ -1,9 +1,13 @@
-DeepSeek
+chatgpt
+openai
 
 谷歌
 google
 gemini
 
-chatgpt
-openai
+DeepSeek
+
+
+
+
 
