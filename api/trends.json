@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-10-17T19:14:11.968131+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-10-17T20:32:38.613711+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌与Salesforce扩大AI领域合作",
+          "url": "https://flash.jin10.com/detail/20251017093117302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
+          "url": "https://flash.jin10.com/detail/20251017200137863800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -18,23 +46,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时53分 ~ 19时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌与Salesforce扩大AI领域合作",
-          "url": "https://flash.jin10.com/detail/20251017093117302800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         }
       ]
     }
