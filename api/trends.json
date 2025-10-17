@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-10-18T05:16:04.570606+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-10-18T06:16:31.407460+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
+          "url": "https://wallstreetcn.com/articles/3757376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
