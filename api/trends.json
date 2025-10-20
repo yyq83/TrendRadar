@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T06:21:25.476265+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-10-21T07:15:03.790816+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
@@ -47,7 +48,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -56,11 +57,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -72,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "DeepSeek开源新模型DeepSeek-OCR",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
         }
       ]
     }
