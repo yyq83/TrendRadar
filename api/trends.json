@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T20:34:31.185004+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2025-10-20T21:28:47.687527+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2174516",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时28分]"
         },
         {
           "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
@@ -99,7 +100,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         }
