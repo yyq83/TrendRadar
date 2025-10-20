@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T03:14:25.389426+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2025-10-21T04:18:39.121721+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
