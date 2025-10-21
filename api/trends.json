@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T15:18:54.482601+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-10-21T16:23:53.432850+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
@@ -44,7 +44,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -72,6 +72,17 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
           "url": "https://www.cls.cn/detail/2174661",
           "source": "财联社热门",
@@ -97,8 +108,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时23分]"
         },
         {
           "title": "谷歌云任命Narain为首席产品兼商业官。",
