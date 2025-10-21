@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T13:17:54.000217+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-10-21T14:24:21.883921+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
@@ -94,11 +94,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 14时24分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -162,8 +163,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时24分]"
         },
         {
           "title": "日立与OpenAI建立战略合作伙伴关系",
@@ -172,7 +173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
