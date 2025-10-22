@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T02:24:11.590476+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2025-10-23T03:14:09.036746+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -128,6 +128,17 @@
           "time_info": "[00时21分 ~ 02时24分]"
         },
         {
+          "title": "OpenAI发首款AI浏览器",
+          "url": "https://www.douyin.com/hot/2278309",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
           "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
           "url": "https://flash.jin10.com/detail/20251023005554826800",
           "source": "金十数据",
@@ -138,17 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时24分]"
-        },
-        {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
         }
       ]
     }
