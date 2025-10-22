@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-22T14:24:57.122712+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-10-22T15:16:28.781008+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 15时16分]"
+        },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
           "url": "https://flash.jin10.com/detail/20251022010530861800",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 14时24分]"
         },
         {
           "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
@@ -259,11 +260,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时16分]"
         }
       ]
     }
