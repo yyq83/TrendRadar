@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T11:39:23.739767+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-10-25T12:19:40.132865+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             10,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 11时39分]"
+          "appearance_count": 6,
+          "time_info": "[06时16分 ~ 12时19分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
