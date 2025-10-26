@@ -1,60 +1,22 @@
 {
-  "generated_at": "2025-10-26T23:15:51.067215+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-10-27T00:17:53.675269+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek新突破能否打破大模型瓶颈",
-          "url": "https://www.toutiao.com/trending/7565151497953611306/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            6,
-            10,
-            9,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时15分]"
-        },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            11,
-            13,
-            12,
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 23时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
-          "url": "https://wallstreetcn.com/articles/3757909",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时20分 ~ 19时13分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
