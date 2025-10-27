@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T00:20:27.658858+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-28T01:14:51.368347+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://flash.jin10.com/detail/20251028000607598800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时14分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
           "url": "https://flash.jin10.com/detail/20251028000516556800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时14分]"
         }
       ]
     }
