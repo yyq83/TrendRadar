@@ -1,40 +1,33 @@
 {
-  "generated_at": "2025-10-27T23:17:51.849846+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-10-28T00:20:27.658858+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
-          "url": "https://flash.jin10.com/detail/20251027174708809800",
+          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
+          "url": "https://flash.jin10.com/detail/20251028000607598800",
           "source": "金十数据",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时20分"
+        },
         {
-          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
-          "url": "https://www.zhihu.com/question/1965049071443075345",
-          "source": "知乎",
+          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
+          "url": "https://flash.jin10.com/detail/20251028000516556800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
