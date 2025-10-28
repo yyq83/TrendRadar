@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T13:18:32.732073+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-10-28T14:25:48.224963+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -117,8 +117,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
           "url": "https://flash.jin10.com/detail/20251028045401357800",
@@ -139,7 +150,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }
