@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T05:15:12.722794+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-10-29T06:17:17.543262+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时17分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
           "url": "https://www.cls.cn/detail/2183840",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时17分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
