@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T00:30:51.172777+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-29T01:15:56.011413+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2183967",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时15分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时15分]"
         },
         {
           "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
