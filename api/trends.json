@@ -1,66 +1,99 @@
 {
-  "generated_at": "2025-10-30T04:28:24.213791+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T05:19:53.936275+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
           "url": "https://flash.jin10.com/detail/20251030041555585800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时19分]"
         },
         {
           "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
           "url": "https://flash.jin10.com/detail/20251030041537308800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时19分]"
         },
         {
           "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
           "url": "https://flash.jin10.com/detail/20251030041438967800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时19分]"
         },
         {
           "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
           "url": "https://flash.jin10.com/detail/20251030040729871800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时19分]"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
           "url": "https://flash.jin10.com/detail/20251030040424583800",
           "source": "金十数据",
           "ranks": [
-            24
+            24,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时19分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
+          "url": "https://wallstreetcn.com/livenews/2996201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
+          "url": "https://wallstreetcn.com/livenews/2996211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     }
