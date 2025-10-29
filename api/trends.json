@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T12:23:16.167261+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2025-10-29T13:17:30.924710+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时17分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
