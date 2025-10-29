@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T16:22:16.870415+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2025-10-29T17:18:55.070274+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时30分 ~ 06时17分]"
         },
         {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 17时18分]"
+        },
+        {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
           "url": "https://flash.jin10.com/detail/20251029015946232800",
           "source": "金十数据",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
