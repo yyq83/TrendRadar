@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T22:18:21.287651+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2025-10-30T23:18:37.433009+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,19 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 23时18分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
           "url": "https://flash.jin10.com/detail/20251030041555585800",
           "source": "金十数据",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时15分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时18分]"
         },
         {
           "title": "AI热潮助推云业务增长 谷歌营收飙升",
@@ -216,7 +217,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -276,6 +277,19 @@
           "time_info": "[09时14分 ~ 13时16分]"
         },
         {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 23时18分]"
+        },
+        {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
           "url": "https://wallstreetcn.com/livenews/2996237",
           "source": "华尔街见闻-快讯",
@@ -286,18 +300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时18分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
