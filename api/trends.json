@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T17:17:55.131909+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-10-30T18:19:10.828536+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -212,7 +212,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -240,6 +240,19 @@
           "time_info": "[09时14分 ~ 13时16分]"
         },
         {
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时19分]"
+        },
+        {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
           "url": "https://wallstreetcn.com/livenews/2996237",
           "source": "华尔街见闻-快讯",
@@ -250,18 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -286,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时23分]"
+        },
+        {
+          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967183428639266693",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
