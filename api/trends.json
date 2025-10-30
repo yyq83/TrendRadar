@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T11:10:33.027858+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2025-10-30T12:20:14.204998+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -220,11 +220,23 @@
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时20分]"
+        },
+        {
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时20分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -237,17 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时15分]"
-        },
-        {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 11时10分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
