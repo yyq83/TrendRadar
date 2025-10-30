@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T14:23:51.495048+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-10-30T15:17:51.948813+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -210,11 +210,12 @@
           "ranks": [
             9,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 15时17分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
