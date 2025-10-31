@@ -1,103 +1,12 @@
 {
-  "generated_at": "2025-10-31T23:15:58.338220+08:00",
-  "total_titles_processed": 2086,
+  "generated_at": "2025-11-01T00:20:00.539711+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
-          "url": "https://wallstreetcn.com/livenews/2997144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时17分]"
-        },
-        {
-          "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
-          "url": "https://flash.jin10.com/detail/20251031043733799800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时17分]"
-        },
-        {
-          "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20251031043612973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时17分]"
-        },
-        {
-          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
-          "url": "https://flash.jin10.com/detail/20251031015822268800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
-        },
-        {
-          "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
-          "url": "https://wallstreetcn.com/livenews/2997133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时10分]"
-        },
         {
           "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
           "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
@@ -106,43 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时18分 ~ 23时15分]"
-        },
-        {
-          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2997111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758229",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 06时17分]"
-        },
-        {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时15分]"
+          "time_info": "[00时19分 ~ 00时20分]"
         }
       ]
     },
@@ -155,15 +29,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            10,
-            9,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时20分 ~ 23时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
         }
       ]
     }
