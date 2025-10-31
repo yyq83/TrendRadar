@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T15:16:25.011183+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-10-31T16:22:19.817424+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -133,11 +133,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 16时22分]"
         }
       ]
     }
