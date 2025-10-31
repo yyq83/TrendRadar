@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T19:15:22.738874+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-10-31T20:35:06.679923+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,17 @@
           "time_info": "[00时22分 ~ 09时10分]"
         },
         {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 20时35分]"
+        },
+        {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
           "url": "https://wallstreetcn.com/livenews/2997111",
           "source": "华尔街见闻-快讯",
@@ -120,17 +131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 06时17分]"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时15分]"
         }
       ]
     },
@@ -146,11 +146,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 20时35分]"
         }
       ]
     }
