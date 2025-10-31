@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T21:29:03.768709+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2025-10-31T22:18:17.749172+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
@@ -83,7 +83,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -106,8 +106,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时18分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[17时18分 ~ 22时18分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 06时17分]"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -150,8 +161,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时20分 ~ 21时29分]"
+          "appearance_count": 14,
+          "time_info": "[12时20分 ~ 22时18分]"
         }
       ]
     }
