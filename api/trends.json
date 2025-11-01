@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T14:21:27.311617+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-11-01T15:17:02.101463+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         }
       ]
     },
