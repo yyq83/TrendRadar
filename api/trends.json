@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:18:41.624647+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-11-02T17:16:29.022581+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时21分 ~ 16时18分]"
+          "appearance_count": 17,
+          "time_info": "[02时21分 ~ 17时16分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -74,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 16时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 17时16分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 17时16分]"
         }
       ]
     }
