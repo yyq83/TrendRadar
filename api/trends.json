@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T19:13:57.620874+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-11-02T20:29:16.594417+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,20 @@
           "time_info": "[02时21分 ~ 17时16分]"
         },
         {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时19分 ~ 20时29分]"
+        },
+        {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
@@ -64,20 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时17分 ~ 11时13分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 19时13分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
