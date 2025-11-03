@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T11:15:07.676069+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2025-11-03T12:25:08.285100+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 02时21分]"
+        },
+        {
+          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://wallstreetcn.com/livenews/2998342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://flash.jin10.com/detail/20251103120231849800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     }
