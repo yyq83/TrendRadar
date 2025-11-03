@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T05:15:24.786802+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-04T06:16:05.664207+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         }
       ]
     }
