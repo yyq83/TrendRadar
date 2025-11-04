@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T13:16:51.611390+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-11-04T14:24:47.102983+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时15分 ~ 13时16分]"
+          "appearance_count": 11,
+          "time_info": "[06时15分 ~ 14时24分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -27,11 +27,12 @@
           "ranks": [
             9,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 14时24分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
