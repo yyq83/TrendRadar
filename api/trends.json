@@ -1,22 +1,45 @@
 {
-  "generated_at": "2025-11-05T00:20:16.260068+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-05T01:14:01.201116+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
+          "url": "https://flash.jin10.com/detail/20251105010853039800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布“捕光者”项目（Project Suncatcher），这是我们一项全新的研究型登月项目，旨在有朝一日实现机器学习在太空中的规模化应用。",
+          "url": "https://flash.jin10.com/detail/20251105010822293800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
         {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
           "url": "https://flash.jin10.com/detail/20251105000406065800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时14分]"
         }
       ]
     }
