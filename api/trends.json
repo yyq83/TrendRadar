@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T12:21:17.095658+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-11-05T13:17:26.508865+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 13时17分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -93,8 +93,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 13时17分]"
         },
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
@@ -114,7 +114,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
