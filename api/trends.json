@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T15:16:18.795171+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-11-05T16:24:33.465442+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -110,11 +110,12 @@
           "ranks": [
             10,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 16时24分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
