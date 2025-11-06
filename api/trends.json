@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-06T13:18:04.391158+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-11-06T14:24:43.471284+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://wallstreetcn.com/livenews/3000038",
@@ -89,6 +100,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时15分]"
+        },
+        {
+          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
+          "url": "https://flash.jin10.com/detail/20251106140725860800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
+          "url": "https://flash.jin10.com/detail/20251106140533490800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
