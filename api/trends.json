@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T05:16:19.213855+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-11-07T06:21:14.635391+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时21分]"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -28,7 +29,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -84,7 +85,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
+        },
+        {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         }
       ]
     }
