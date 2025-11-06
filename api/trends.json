@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T20:32:15.024049+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-11-06T21:29:55.092834+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "据报道，谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "谷歌将在未来几周全面上市其最强大的AI芯片Ironwood",
+          "url": "https://flash.jin10.com/detail/20251106211437983800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
@@ -147,6 +169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时15分]"
+        },
+        {
+          "title": "据CNBC：谷歌(GOOG.O)正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
+          "url": "https://flash.jin10.com/detail/20251106211009167800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
