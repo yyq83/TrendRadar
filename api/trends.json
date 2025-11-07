@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T09:11:33.592475+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-11-07T11:08:42.076980+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 09时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 11时08分]"
         },
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时08分]"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -99,17 +99,40 @@
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 11时08分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -120,8 +143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 09时11分]"
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 11时08分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -147,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
+        },
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
