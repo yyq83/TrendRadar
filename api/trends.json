@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T15:24:53.169443+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2025-11-07T16:24:10.198534+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时24分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -53,11 +53,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时24分]"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -146,8 +147,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时20分 ~ 15时24分]"
+          "appearance_count": 12,
+          "time_info": "[06时20分 ~ 16时24分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
