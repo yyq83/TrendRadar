@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T22:16:34.169243+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2025-11-07T23:16:51.723561+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时08分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[11时08分 ~ 23时16分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -150,7 +150,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -214,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
+        },
+        {
+          "title": "美股明星科技股普跌，特斯拉(TSLA.O)、AMD(AMD.O)跌约3.5%，甲骨文(ORCL.N)、英伟达(NVDA.O)跌约2%，谷歌(GOOG.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251107223609043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     }
