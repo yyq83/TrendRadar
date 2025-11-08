@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T19:13:45.522812+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-11-08T20:28:21.340152+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时28分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -48,7 +49,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
@@ -61,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时10分]"
+        },
+        {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26lcate%3D5001%26cate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26realpos%3D8%26stream_entry_id%3D31%26c_type%3D31%26pos%3D8%26band_rank%3D8%26dgr%3D0%26display_time%3D1762603394%26pre_seqid%3D17626033948080333906015&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
