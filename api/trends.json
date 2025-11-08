@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T22:13:50.505601+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2025-11-08T23:14:47.550640+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时15分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 23时14分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
