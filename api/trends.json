@@ -1,28 +1,8 @@
 {
-  "generated_at": "2025-11-09T23:14:42.774150+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-11-10T00:17:44.495302+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时11分]"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -32,14 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3758988",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时14分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
