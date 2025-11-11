@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T04:18:12.532027+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-11-12T05:15:33.159375+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时15分]"
         },
         {
           "title": "谷歌高管贾斯图斯：数据中心不存在德国政府补贴。",
@@ -111,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
