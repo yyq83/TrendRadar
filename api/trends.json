@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:18:52.987727+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2025-11-11T19:14:51.492702+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -42,13 +42,24 @@
           "time_info": "01时15分"
         },
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "科技股估值飙升带动软银Q3利润大涨，旗下基金清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -120,7 +131,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
