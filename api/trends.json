@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T20:32:43.846537+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-11-11T21:29:11.299450+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时29分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
