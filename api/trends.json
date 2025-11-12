@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-11-13T04:18:46.243201+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2025-11-13T05:15:42.986906+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
+          "url": "https://flash.jin10.com/detail/20251113050804559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
+          "url": "https://flash.jin10.com/detail/20251113031402005800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -43,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -58,23 +86,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 04时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
-          "url": "https://flash.jin10.com/detail/20251113031402005800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         }
       ]
     }
