@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T09:13:01.821987+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-11-12T11:09:52.653261+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 11时09分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -46,11 +47,12 @@
           "url": "https://www.cls.cn/detail/2197744",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 11时09分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
