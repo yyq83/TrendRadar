@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T07:15:45.354782+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2025-11-14T09:12:16.109610+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时12分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时12分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -40,7 +40,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -51,7 +51,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
