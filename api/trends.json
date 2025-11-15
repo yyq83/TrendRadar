@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T17:15:10.669812+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-11-15T18:15:32.975345+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时04分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 18时15分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -32,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 17时15分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 18时15分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -46,19 +47,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时04分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 18时15分]"
         },
         {
           "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
           "url": "https://flash.jin10.com/detail/20251115162742778800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
