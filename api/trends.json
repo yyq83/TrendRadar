@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T12:18:40.656162+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-11-15T13:15:39.557859+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时15分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时15分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时15分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -88,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时15分]"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
