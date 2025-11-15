@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:13:10.598707+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2025-11-16T02:20:12.802115+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 02时20分]"
         }
       ]
     }
