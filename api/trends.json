@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T00:17:51.847620+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-17T01:13:42.945265+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     }
