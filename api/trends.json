@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T19:15:08.476871+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-11-17T20:32:27.253225+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时23分 ~ 19时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 20时32分]"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
