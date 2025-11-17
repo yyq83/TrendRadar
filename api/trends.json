@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:13:22.646520+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2025-11-17T12:23:40.998916+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -16,11 +16,12 @@
             5,
             7,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时23分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时20分 ~ 09时13分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     },
@@ -47,7 +59,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
