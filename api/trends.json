@@ -1,21 +1,7 @@
 {
-  "generated_at": "2025-11-18T22:20:09.366992+08:00",
-  "total_titles_processed": 1776,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:18:54.981123+08:00",
+  "total_titles_processed": 1908,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
@@ -153,7 +139,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么说千问能硬刚 ChatGPT？",
@@ -167,6 +153,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 15时16分]"
+        },
+        {
+          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
+          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
