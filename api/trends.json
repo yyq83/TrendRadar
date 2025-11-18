@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-11-19T06:16:17.934516+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2025-11-19T07:20:06.136367+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
-        {
-          "title": "谷歌正式发布Gemini3",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 06时16分]"
-        },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
           "url": "https://www.cls.cn/detail/2204017",
@@ -30,8 +17,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时20分]"
+        },
+        {
+          "title": "谷歌正式发布Gemini3",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 07时20分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -89,7 +90,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -100,7 +101,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
