@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T03:14:17.527717+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-11-19T04:19:27.451972+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 04时19分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -28,8 +28,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
+          "url": "https://wallstreetcn.com/livenews/3006669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 04时19分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
-          "url": "https://wallstreetcn.com/livenews/3006669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
         }
       ]
     }
