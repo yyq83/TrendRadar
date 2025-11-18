@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T13:16:48.849431+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2025-11-18T14:24:18.432100+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 14时24分]"
         },
         {
           "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
@@ -150,8 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时24分]"
         }
       ]
     }
