@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T00:21:34.946364+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:16:10.547402+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -26,19 +26,42 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
+          "url": "https://flash.jin10.com/detail/20251120005103639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "01时16分"
         },
         {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
         }
       ]
     },
@@ -54,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         }
       ]
     }
