@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:07:23.594894+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-11-20T12:19:10.528080+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -40,11 +40,12 @@
             4,
             5,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 12时19分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -58,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时15分 ~ 11时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时15分 ~ 12时19分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -68,11 +69,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时23分 ~ 11时07分]"
+          "appearance_count": 11,
+          "time_info": "[02时23分 ~ 12时19分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -109,13 +111,24 @@
           "time_info": "[05时13分 ~ 06时16分]"
         },
         {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
           "url": "https://flash.jin10.com/detail/20251120104126755800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -137,7 +150,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
