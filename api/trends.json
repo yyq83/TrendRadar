@@ -1,89 +1,12 @@
 {
-  "generated_at": "2025-11-20T23:17:47.087956+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2025-11-21T00:21:25.693982+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5,
-            6,
-            9,
-            12,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时15分 ~ 19时15分]"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            5,
-            9,
-            11,
-            10,
-            8,
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时21分 ~ 21时28分]"
-        },
-        {
-          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
-          "url": "https://wallstreetcn.com/articles/3759713",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时23分 ~ 19时15分]"
-        },
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
           "url": "https://www.zhihu.com/question/1974854700256944776",
@@ -92,344 +15,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时16分 ~ 23时17分]"
-        },
-        {
-          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
-          "url": "https://flash.jin10.com/detail/20251120005103639800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "00时21分"
         },
         {
-          "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
-          "url": "https://wallstreetcn.com/livenews/3007512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
-          "url": "https://wallstreetcn.com/livenews/3008020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 23时17分]"
-        },
-        {
-          "title": "Gemini3有哪些新鲜玩法",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时28分]"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 14时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 谷歌创新高",
-          "url": "https://flash.jin10.com/detail/20251120050112244800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时16分]"
-        },
-        {
-          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3007806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)：计划为土耳其带来一个新的谷歌云区域，作为在该国为期10年总额20亿美元投资的一部分。",
-          "url": "https://flash.jin10.com/detail/20251120164537640800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "00时21分"
         },
         {
-          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
-          "url": "https://flash.jin10.com/detail/20251120104126755800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
-          "url": "https://wallstreetcn.com/livenews/3007418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "谷歌：在中国台北启用新的硬件工程中心。",
-          "url": "https://wallstreetcn.com/livenews/3007704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
-          "url": "https://flash.jin10.com/detail/20251120103853378800",
+          "title": "谷歌推出Nano Banana Pro图像生成模型",
+          "url": "https://flash.jin10.com/detail/20251120233021177800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时07分"
+          "time_info": "00时21分"
         },
         {
-          "title": "谷歌涨3.2%总市值达到3.65万亿美元，略超过微软公司，进入美股总市值前三。",
-          "url": "https://wallstreetcn.com/livenews/3008034",
+          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3008055",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "谷歌总市值超过微软 进入美股前三",
-          "url": "https://flash.jin10.com/detail/20251120224014841800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "谷歌：西屋公司与谷歌云合作，利用双方的专用模型开发定制的人工智能平台。",
-          "url": "https://flash.jin10.com/detail/20251120220558855800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3007835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
-          "url": "https://flash.jin10.com/detail/20251120021055474800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
-          "url": "https://wallstreetcn.com/livenews/3007373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时16分]"
-        },
-        {
-          "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
-          "url": "https://flash.jin10.com/detail/20251120021224475800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
-        },
-        {
-          "title": "萨默斯（Larry Summers）从Santander国际顾问委员会离职。 此前，萨默斯已经退出OpenAI的董事会。",
-          "url": "https://wallstreetcn.com/livenews/3007408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时16分]"
-        },
-        {
-          "title": "与爱泼斯坦关系密切，美前财长萨默斯辞去OpenAI董事等职务",
-          "url": "https://flash.jin10.com/detail/20251120082746009800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "英伟达：正与OpenAI致力于战略合作伙伴关系。 将通过云继续支持OpenAI。 正设法与OpenAI达成独家协议。 OpenAI投资将转化为回报。",
-          "url": "https://wallstreetcn.com/livenews/3007456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
-          "url": "https://wallstreetcn.com/livenews/3007502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架。",
-          "url": "https://flash.jin10.com/detail/20251120021055474800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：英伟达正与OpenAI合作，建设并部署超过10吉瓦的AI数据中心。",
-          "url": "https://flash.jin10.com/detail/20251120062209378800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "OpenAI数据中心工厂将于2026年第一季度尽快开业。（The Information）",
-          "url": "https://flash.jin10.com/detail/20251120220406915800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "软银将向OpenAI数据中心工厂投资高达30亿美元。",
-          "url": "https://flash.jin10.com/detail/20251120220240882800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "00时21分"
         }
       ]
     }
