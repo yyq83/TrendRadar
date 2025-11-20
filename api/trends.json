@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T18:17:56.329977+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-20T19:15:13.439032+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时15分 ~ 18时17分]"
+          "appearance_count": 23,
+          "time_info": "[01时15分 ~ 19时15分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 18时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时21分 ~ 19时15分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时23分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[02时23分 ~ 19时15分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -205,7 +205,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
