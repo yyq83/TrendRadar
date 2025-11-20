@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:19:10.528080+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2025-11-20T13:16:29.725602+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时16分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 12时19分]"
+          "appearance_count": 14,
+          "time_info": "[01时15分 ~ 13时16分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时23分 ~ 12时19分]"
+          "appearance_count": 12,
+          "time_info": "[02时23分 ~ 13时16分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -99,6 +99,18 @@
           "time_info": "09时10分"
         },
         {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时16分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时16分]"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时19分]"
         },
         {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
