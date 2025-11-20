@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T06:16:14.731555+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-11-21T07:15:26.946357+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -27,8 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 07时15分]"
         },
         {
           "title": "Gemini3",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时23分 ~ 05时15分]"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
@@ -128,7 +129,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
@@ -140,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美国计算机软件公司Intuit CEO：客户数据隐私与安全原则在与ChatGPT集成后“保持不变”；公司计划利用客户数据训练自己的大型语言模型。",
+          "url": "https://flash.jin10.com/detail/20251121055554104800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     }
