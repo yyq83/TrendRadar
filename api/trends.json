@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T16:22:42.522940+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-20T17:18:02.238873+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -43,11 +43,12 @@
             11,
             10,
             8,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 16时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 17时18分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -59,11 +60,12 @@
             5,
             6,
             9,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时15分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[01时15分 ~ 17时18分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -77,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时23分 ~ 16时22分]"
+          "appearance_count": 18,
+          "time_info": "[02时23分 ~ 17时18分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -128,6 +130,17 @@
           "time_info": "[05时13分 ~ 06时16分]"
         },
         {
+          "title": "Alphabet(GOOG.O)：计划为土耳其带来一个新的谷歌云区域，作为在该国为期10年总额20亿美元投资的一部分。",
+          "url": "https://flash.jin10.com/detail/20251120164537640800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
           "url": "https://flash.jin10.com/detail/20251120104126755800",
           "source": "金十数据",
@@ -170,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "王自如深度体验谷歌AI",
