@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T07:15:26.946357+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-11-21T09:11:16.824357+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1974854700256944776",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时11分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -27,20 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时11分]"
         },
         {
           "title": "Gemini3",
@@ -55,6 +44,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时23分 ~ 05时15分]"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 09时11分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
@@ -149,7 +151,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
