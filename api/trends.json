@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-23T01:13:30.286594+08:00",
-  "total_titles_processed": 330,
+  "generated_at": "2025-11-23T02:21:20.421136+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时21分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -27,8 +28,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时21分]"
+        },
+        {
+          "title": "Gemini-3-pro 为什么提升那么大?",
+          "url": "https://www.zhihu.com/question/1974915118199509365",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         }
       ]
     },
@@ -41,11 +53,12 @@
           "url": "https://wallstreetcn.com/articles/3759931",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时21分]"
         }
       ]
     }
