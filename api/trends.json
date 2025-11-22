@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T19:12:33.963877+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-11-22T20:27:38.829536+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[09时08分 ~ 20时27分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -72,6 +72,17 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "谷歌：我们推出BigQuery AI。",
           "url": "https://flash.jin10.com/detail/20251122011317548800",
           "source": "金十数据",
@@ -89,7 +100,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -97,7 +108,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -125,6 +136,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时15分 ~ 19时12分]"
+        },
+        {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
