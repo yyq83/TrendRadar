@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T17:15:43.886301+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-11-22T18:15:44.816239+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时08分 ~ 18时15分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -94,11 +95,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 18时15分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -109,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 18时15分]"
         }
       ]
     }
