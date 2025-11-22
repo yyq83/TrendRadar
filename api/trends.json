@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T06:14:48.200250+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-23T07:15:00.921065+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -31,8 +31,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -41,11 +41,12 @@
           "ranks": [
             10,
             9,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时21分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 07时15分]"
         }
       ]
     },
@@ -63,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时15分]"
         }
       ]
     }
