@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T21:21:25.046693+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-11-22T22:13:57.141778+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,19 @@
           "time_info": "[04时19分 ~ 05时14分]"
         },
         {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时13分]"
+        },
+        {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
@@ -60,16 +73,16 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时21分]"
+          "time_info": "[21时21分 ~ 22时13分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -82,17 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时14分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
@@ -155,11 +157,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 21时21分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 22时13分]"
         }
       ]
     }
