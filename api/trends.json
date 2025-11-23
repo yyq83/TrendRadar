@@ -1,94 +1,33 @@
 {
-  "generated_at": "2025-11-23T23:14:28.586373+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-24T00:18:12.942149+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8,
-            5
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时21分]"
-        },
-        {
-          "title": "Gemini-3-pro 为什么提升那么大?",
-          "url": "https://www.zhihu.com/question/1974915118199509365",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            14,
-            12,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时21分 ~ 13时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
           "url": "https://www.douyin.com/hot/2314319",
           "source": "抖音",
           "ranks": [
-            23,
-            29,
-            26,
-            22,
-            16,
-            14,
-            19,
-            9,
-            15
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 17时15分]"
-        },
-        {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23,
-            10,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时15分 ~ 23时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         }
       ]
     }
