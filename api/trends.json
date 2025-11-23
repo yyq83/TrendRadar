@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T17:15:38.252573+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-11-23T18:16:02.788046+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时17分 ~ 17时15分]"
+        },
+        {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     },
