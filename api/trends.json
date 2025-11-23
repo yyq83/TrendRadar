@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T07:15:00.921065+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-11-23T09:21:18.077123+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,26 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时21分]"
+        },
+        {
+          "title": "Gemini-3-pro 为什么提升那么大?",
+          "url": "https://www.zhihu.com/question/1974915118199509365",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 09时21分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -33,20 +48,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时15分]"
-        },
-        {
-          "title": "Gemini-3-pro 为什么提升那么大?",
-          "url": "https://www.zhihu.com/question/1974915118199509365",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 07时15分]"
         }
       ]
     },
@@ -61,11 +62,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时21分]"
         }
       ]
     }
