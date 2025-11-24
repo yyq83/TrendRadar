@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T19:15:10.128346+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-11-24T20:32:51.191748+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -85,11 +85,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时32分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
