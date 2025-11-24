@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T20:32:51.191748+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2025-11-24T21:31:36.869040+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时17分 ~ 16时23分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -89,8 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 21时31分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
