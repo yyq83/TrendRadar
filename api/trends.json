@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T01:17:20.390733+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-11-26T02:24:51.521647+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2210485",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -37,8 +38,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -47,17 +59,6 @@
           "ranks": [
             6,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
