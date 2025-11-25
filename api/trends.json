@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T16:22:58.160133+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-11-25T17:20:11.322886+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时20分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -78,6 +78,18 @@
           "time_info": "07时15分"
         },
         {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 17时20分]"
+        },
+        {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时22分]"
         },
         {
           "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
