@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T05:15:39.899377+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-11-26T06:16:27.981006+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -47,11 +47,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -114,11 +115,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 06时16分]"
         }
       ]
     }
