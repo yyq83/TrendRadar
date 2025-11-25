@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T13:17:36.651851+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-11-25T14:25:41.111339+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 14时25分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -76,6 +76,18 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时25分]"
+        },
+        {
           "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
           "url": "https://flash.jin10.com/detail/20251125032925366800",
           "source": "金十数据",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
         },
         {
           "title": "市场消息：谷歌(GOOG.O)与风险投资基金Accel合作，共同孵化印度人工智能初创企业。谷歌基金表示，下一波人工智能创新很可能来自印度。",
