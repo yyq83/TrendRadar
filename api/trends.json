@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T16:22:50.239267+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-11-26T17:20:09.330243+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 17时20分]"
+        },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
           "url": "https://www.cls.cn/detail/2210485",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 16时22分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -53,6 +53,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 15时16分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 17时20分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -93,18 +106,6 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 16时22分]"
-        },
-        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
@@ -128,6 +129,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时12分 ~ 15时16分]"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -167,17 +182,17 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
           "ranks": [
+            13,
             11,
-            10,
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 17时20分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -192,16 +207,15 @@
           "time_info": "[00时21分 ~ 01时17分]"
         },
         {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 16时22分]"
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -228,13 +242,24 @@
           "time_info": "[12时22分 ~ 13时16分]"
         },
         {
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "谷歌AI平台全球第一 火山引擎中国第一",
           "url": "https://www.toutiao.com/trending/7576941585242505243/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -250,13 +275,24 @@
           "time_info": "11时12分"
         },
         {
+          "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3010775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
           "url": "https://flash.jin10.com/detail/20251126154853273800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -341,7 +377,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
