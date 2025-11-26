@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T22:17:51.282428+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2025-11-26T23:16:26.645119+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时12分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时12分 ~ 23时16分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时12分 ~ 23时16分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -31,20 +46,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时12分 ~ 22时17分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -84,6 +85,19 @@
           "time_info": "[14时25分 ~ 20时34分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时19分 ~ 23时16分]"
+        },
+        {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
           "url": "https://www.cls.cn/detail/2210906",
           "source": "财联社热门",
@@ -95,19 +109,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时15分 ~ 15时16分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时19分 ~ 22时17分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -175,6 +176,17 @@
           "time_info": "[11时12分 ~ 15时16分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 23时16分]"
+        },
+        {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
           "url": "https://wallstreetcn.com/livenews/3010363",
           "source": "华尔街见闻-快讯",
@@ -210,17 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
-        },
-        {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 22时17分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -386,7 +387,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -395,11 +396,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 23时16分]"
         },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
@@ -435,6 +437,19 @@
           "time_info": "09时12分"
         },
         {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时16分]"
+        },
+        {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
           "url": "https://wallstreetcn.com/livenews/3010381",
           "source": "华尔街见闻-快讯",
@@ -448,27 +463,27 @@
           "time_info": "[04时18分 ~ 06时16分]"
         },
         {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时17分]"
-        },
-        {
           "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3010926",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时16分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)在德意志银行指出其受益于OpenAI后开盘上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126223134754800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时16分"
         },
         {
           "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
