@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T21:29:15.715870+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2025-11-28T22:16:43.611232+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
@@ -138,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时14分 ~ 21时29分]"
+          "appearance_count": 20,
+          "time_info": "[07时14分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -164,11 +164,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时16分 ~ 21时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时16分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
