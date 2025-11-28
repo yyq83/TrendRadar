@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T07:15:06.451460+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-11-28T09:10:06.559053+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,47 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时10分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 09时10分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -58,8 +99,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时10分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -71,34 +112,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
-          "url": "https://wallstreetcn.com/articles/3760281",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
         }
       ]
     }
