@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T02:21:43.145520+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-11-30T03:12:28.371727+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     },
@@ -54,11 +54,29 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     }
