@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-29T07:15:23.700891+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-29T09:10:46.182567+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
