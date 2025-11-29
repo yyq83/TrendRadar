@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T22:14:29.134645+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-11-29T23:15:07.251122+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时15分 ~ 22时14分]"
+          "appearance_count": 16,
+          "time_info": "[13时15分 ~ 23时15分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时08分 ~ 22时14分]"
+          "appearance_count": 18,
+          "time_info": "[11时08分 ~ 23时15分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 23时15分]"
         }
       ]
     },
@@ -56,6 +56,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时15分]"
+        },
         {
           "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
           "url": "https://wallstreetcn.com/articles/3760323",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 14时22分]"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
         }
       ]
     },
