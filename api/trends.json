@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T23:15:07.251122+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-11-30T00:19:03.084808+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
   "trends": [
     {
@@ -12,103 +12,51 @@
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时15分 ~ 23时15分]"
-        },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时08分 ~ 23时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 23时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
           "url": "https://www.zhihu.com/question/1923520417756321577",
           "source": "知乎",
           "ranks": [
-            10,
+            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时14分 ~ 23时15分]"
-        },
-        {
-          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
-          "url": "https://wallstreetcn.com/articles/3760323",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 14时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
-          "url": "https://wallstreetcn.com/articles/3760369",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 21时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     }
