@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T01:14:03.203671+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-01T02:21:39.709109+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -37,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时21分]"
         }
       ]
     },
@@ -57,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -68,8 +69,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时21分]"
         }
       ]
     }
