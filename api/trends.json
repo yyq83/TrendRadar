@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:19:42.120614+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-11-30T17:15:28.369515+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -69,19 +69,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 17时15分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
         }
       ]
     },
