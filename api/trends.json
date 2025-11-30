@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:14:59.084175+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2025-11-30T09:20:35.909739+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
         }
       ]
     },
@@ -59,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
         }
       ]
     },
@@ -74,11 +75,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时12分 ~ 07时14分]"
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 09时20分]"
         }
       ]
     }
