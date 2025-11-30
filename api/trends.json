@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:23:51.392119+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-11-30T22:14:44.778368+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -52,22 +52,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时14分]"
         }
       ]
     },
@@ -75,6 +77,19 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时14分]"
+        },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
           "url": "https://www.zhihu.com/question/1923520417756321577",
@@ -93,21 +108,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 21时23分]"
-        },
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 22时14分]"
         }
       ]
     },
