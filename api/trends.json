@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T06:15:19.132947+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-01T07:14:56.102047+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -16,21 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -45,8 +32,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -73,8 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         }
       ]
     }
