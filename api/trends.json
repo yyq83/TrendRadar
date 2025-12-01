@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T01:18:57.228623+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-12-02T02:26:44.659854+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3760461",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -53,11 +55,12 @@
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -67,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
