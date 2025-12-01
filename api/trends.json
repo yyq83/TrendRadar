@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T11:47:54.202630+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2025-12-01T12:45:41.782421+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 12时45分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -65,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 12时45分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
