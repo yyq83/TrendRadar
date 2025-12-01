@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T07:14:56.102047+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-01T09:25:20.528959+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时25分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -29,11 +30,12 @@
             20,
             23,
             21,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时25分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -62,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时25分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
