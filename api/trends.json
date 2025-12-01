@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T16:25:12.542614+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-01T17:23:52.228588+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             22,
             18,
             29,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 16时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 17时23分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -71,11 +72,12 @@
           "url": "https://www.cls.cn/detail/2215337",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时23分]"
         }
       ]
     },
