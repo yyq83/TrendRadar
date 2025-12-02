@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T06:15:21.532118+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-12-03T07:15:35.716016+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时19分]"
+        },
+        {
+          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
+          "url": "https://wallstreetcn.com/articles/3760498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -79,11 +90,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -92,11 +104,12 @@
           "ranks": [
             7,
             9,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -110,8 +123,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -143,6 +156,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时15分]"
+        },
+        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
@@ -152,23 +178,12 @@
             9,
             5,
             19,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时15分]"
-        },
-        {
-          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
-          "url": "https://www.cls.cn/detail/2217435",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时15分]"
         }
       ]
     }
