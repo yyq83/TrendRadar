@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-03T02:26:12.172498+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-12-03T03:17:10.754142+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
-        {
-          "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
-          "url": "https://flash.jin10.com/detail/20251203000100879800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
         {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
@@ -28,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时17分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -40,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时17分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -53,8 +42,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时17分]"
+        },
+        {
+          "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
+          "url": "https://flash.jin10.com/detail/20251203000100879800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时17分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -94,8 +94,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 03时17分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -128,6 +128,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时17分]"
+        },
+        {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
@@ -136,21 +150,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时26分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时17分]"
         }
       ]
     }
