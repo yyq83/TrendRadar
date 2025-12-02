@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T01:19:46.956018+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2025-12-03T02:26:12.172498+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "00时33分"
         },
         {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时26分]"
+        },
+        {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
           "url": "https://wallstreetcn.com/articles/3760505",
           "source": "华尔街见闻",
@@ -27,8 +40,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时26分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时26分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -41,36 +67,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时19分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时19分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时19分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -81,8 +83,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时26分]"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时19分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -119,11 +132,12 @@
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时26分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -131,11 +145,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时26分]"
         }
       ]
     }
