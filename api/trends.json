@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:17:10.754142+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-12-03T04:20:33.797514+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时20分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时20分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -39,11 +39,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时20分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -83,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时20分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -94,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 04时20分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -138,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时20分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -150,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时20分]"
         }
       ]
     }
