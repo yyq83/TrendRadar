@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:19:14.669396+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-12-02T19:16:47.096034+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 19时16分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -78,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 19时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -164,11 +164,12 @@
             4,
             11,
             12,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -178,11 +179,12 @@
             7,
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -249,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 19时16分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
