@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T01:20:18.408808+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-12-04T02:25:46.763067+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时20分]"
+        },
+        {
+          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
+          "url": "https://flash.jin10.com/detail/20251204005558678800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     },
@@ -34,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         }
       ]
     },
@@ -49,11 +60,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         }
       ]
     }
