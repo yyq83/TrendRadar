@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T07:15:35.716016+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-12-03T09:13:51.373060+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时25分 ~ 05时16分]"
+        },
+        {
+          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
+          "url": "https://wallstreetcn.com/articles/3760498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时13分]"
         },
         {
           "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
@@ -65,23 +76,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时19分]"
-        },
-        {
-          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
-          "url": "https://wallstreetcn.com/articles/3760498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时13分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时15分]"
+        },
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -165,8 +176,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时13分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
