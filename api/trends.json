@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:16:56.367621+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2025-12-03T14:25:54.834410+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时25分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -147,8 +147,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 14时25分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
