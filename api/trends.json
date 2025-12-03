@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:23:19.496625+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2025-12-03T17:20:51.567438+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -20,17 +20,6 @@
           "time_info": "[00时33分 ~ 05时16分]"
         },
         {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时25分 ~ 05时16分]"
-        },
-        {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
           "url": "https://www.cls.cn/detail/2218001",
           "source": "财联社热门",
@@ -41,8 +30,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 17时20分]"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 05时16分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -106,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 17时20分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
