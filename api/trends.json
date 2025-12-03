@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T15:19:22.366992+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-12-03T16:23:19.496625+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             12,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时23分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -97,6 +98,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时23分]"
+        },
+        {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
           "url": "https://wallstreetcn.com/articles/3760505",
           "source": "华尔街见闻",
@@ -109,18 +122,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 11时14分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时19分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
