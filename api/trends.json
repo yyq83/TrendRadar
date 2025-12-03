@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T20:33:58.103938+08:00",
-  "total_titles_processed": 1769,
+  "generated_at": "2025-12-03T21:33:59.851049+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
@@ -153,7 +153,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -164,7 +164,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
@@ -183,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 21时33分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
