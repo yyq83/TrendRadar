@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T09:13:51.373060+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2025-12-03T11:14:34.641858+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时14分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -133,9 +133,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时14分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
