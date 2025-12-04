@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T16:23:53.292080+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2025-12-04T17:20:45.162425+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -98,7 +98,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 11时16分]"
+        },
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
