@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T04:19:30.675249+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-05T05:16:02.108649+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时16分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -46,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时16分]"
         }
       ]
     }
