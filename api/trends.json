@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T07:14:39.656980+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-04T09:14:00.389353+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -53,12 +53,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "金十数据整理：今年OpenAI收购/整合动作频频 战略布局持续扩展加深",
+          "url": "https://flash.jin10.com/detail/20251204084109046800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -71,6 +82,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         }
       ]
     },
@@ -88,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时14分]"
         }
       ]
     }
