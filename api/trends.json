@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T20:34:04.366104+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-12-05T21:30:09.894058+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 21时30分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
