@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T13:15:59.189797+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-12-06T14:23:05.358637+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -20,29 +20,17 @@
           "time_info": "[07时16分 ~ 09时10分]"
         },
         {
-          "title": "ChatGPT产品负责人回应广告传闻",
-          "url": "https://flash.jin10.com/detail/20251206101132584800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时15分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
           "ranks": [
             20,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时23分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -53,8 +41,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时23分]"
+        },
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时06分 ~ 14时23分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
