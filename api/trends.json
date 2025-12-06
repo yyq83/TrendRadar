@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:23:52.267795+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-12-06T22:14:21.871975+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时18分 ~ 21时23分]"
+          "appearance_count": 15,
+          "time_info": "[12时18分 ~ 22时14分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -41,11 +42,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -164,11 +166,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时14分]"
         }
       ]
     }
