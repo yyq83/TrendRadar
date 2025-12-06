@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-06T17:16:10.509283+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-06T18:16:12.100332+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 18时16分]"
+        },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
@@ -17,20 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 17时16分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 18时16分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -70,6 +71,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 11时06分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
