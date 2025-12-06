@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-07T02:21:09.861993+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-12-07T03:13:11.130006+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 03时13分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 03时13分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -40,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
         }
       ]
     },
@@ -56,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 03时13分]"
         }
       ]
     }
