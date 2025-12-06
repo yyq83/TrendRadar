@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-07T05:14:40.755853+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-07T06:15:01.757512+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 06时15分]"
+        },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
@@ -20,18 +32,6 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 05时14分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[03时12分 ~ 06时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -66,11 +66,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 06时15分]"
         }
       ]
     }
