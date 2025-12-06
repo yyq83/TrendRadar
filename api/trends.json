@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T03:13:11.130006+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-12-07T04:16:54.566181+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 04时16分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -51,8 +51,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 04时16分]"
         }
       ]
     },
@@ -69,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 04时16分]"
         }
       ]
     }
