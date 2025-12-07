@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T17:15:56.713912+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-12-07T18:15:30.692331+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
+        },
+        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -42,18 +55,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时12分 ~ 07时15分]"
-        },
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
