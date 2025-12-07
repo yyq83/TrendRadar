@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:15:21.915796+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-07T09:20:48.140471+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时20分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时20分]"
         }
       ]
     }
