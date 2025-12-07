@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T13:15:24.676949+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2025-12-07T14:22:54.060681+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -44,6 +44,17 @@
           "time_info": "[03时12分 ~ 07时15分]"
         },
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
           "url": "https://www.zhihu.com/question/1979858915077404344",
           "source": "知乎",
@@ -73,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时22分]"
         }
       ]
     }
