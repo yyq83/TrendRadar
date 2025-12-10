@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T09:19:45.099459+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-12-10T11:20:07.858840+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[01时17分 ~ 03时13分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时20分]"
+        },
+        {
           "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3017848",
           "source": "华尔街见闻-快讯",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时21分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
         },
         {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
