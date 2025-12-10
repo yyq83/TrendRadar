@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T03:15:28.588374+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-12-11T04:20:17.123410+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
