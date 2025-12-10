@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T18:19:50.477833+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2025-12-10T19:16:14.564868+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "谷歌：在印度推出谷歌AI Plus，定价为每月399卢比。",
+          "url": "https://flash.jin10.com/detail/20251210183721161800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     }
