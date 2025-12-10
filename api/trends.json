@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:20:17.766043+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-12-10T16:23:35.078029+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 16时23分]"
         },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
