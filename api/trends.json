@@ -1,7 +1,47 @@
 {
-  "generated_at": "2025-12-11T00:23:55.367959+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-11T01:19:53.702505+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
+          "url": "https://flash.jin10.com/detail/20251211005244896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
+          "url": "https://flash.jin10.com/detail/20251211005231907800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
+          "url": "https://flash.jin10.com/detail/20251211005056346800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
