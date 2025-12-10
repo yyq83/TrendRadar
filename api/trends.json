@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-10T12:30:59.492246+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-12-10T13:18:25.787758+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 13时18分]"
+        },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
           "url": "https://wallstreetcn.com/livenews/3017827",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时13分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时30分]"
         },
         {
           "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
