@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T22:16:53.214887+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2025-12-12T23:18:45.332853+08:00",
+  "total_titles_processed": 2174,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时20分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 23时18分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -42,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时31分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[12时31分 ~ 23时18分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -57,6 +58,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时20分 ~ 15时21分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8,
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时18分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -81,19 +96,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时20分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时16分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
