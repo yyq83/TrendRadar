@@ -1,39 +1,33 @@
 {
-  "generated_at": "2025-12-12T23:18:45.332853+08:00",
-  "total_titles_processed": 2174,
+  "generated_at": "2025-12-13T00:20:28.006525+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 29,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 15时21分]"
-        },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -43,423 +37,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 23时18分]"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 15时21分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            8,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 23时18分]"
-        },
-        {
-          "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
-          "url": "https://wallstreetcn.com/livenews/3019450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "00时20分"
         },
         {
-          "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
-          "url": "https://wallstreetcn.com/livenews/3019365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时20分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
-          "url": "https://wallstreetcn.com/livenews/3019321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时22分]"
-        },
-        {
-          "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20251212025521319800",
+          "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
+          "url": "https://flash.jin10.com/detail/20251212235925421800",
           "source": "金十数据",
           "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时20分]"
-        },
-        {
-          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3019319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时22分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
-          "url": "https://wallstreetcn.com/livenews/3019318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时22分]"
-        },
-        {
-          "title": "GPT-5.2来了！OpenAI最新发布",
-          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "全面解析ChatGPT5.2",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/1982718694623768873",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
-          "url": "https://flash.jin10.com/detail/20251212020607458800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
-          "url": "https://flash.jin10.com/detail/20251212020557609800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT中，GPT-5.2即时版、思考版和专业版将于今日开始推出，首先面向付费用户。",
-          "url": "https://flash.jin10.com/detail/20251212020525246800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
-          "url": "https://wallstreetcn.com/livenews/3019491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
-          "url": "https://flash.jin10.com/detail/20251212020239589800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼在社交媒体上透露，下周将带来一些小小的圣诞礼物。",
-          "url": "https://flash.jin10.com/detail/20251212031452829800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
-          "url": "https://flash.jin10.com/detail/20251212020128439800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "OpenAI：正式推出GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251212020101906800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
-          "url": "https://flash.jin10.com/detail/20251211235409597800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
-          "url": "https://flash.jin10.com/detail/20251211235112934800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251212023829675800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
-          "url": "https://flash.jin10.com/detail/20251211235011876800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
-          "url": "https://flash.jin10.com/detail/20251211234949588800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
-          "url": "https://flash.jin10.com/detail/20251211234938201800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们预计迪士尼合作将带来增量收入。",
-          "url": "https://flash.jin10.com/detail/20251211234711697800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20251212174133299800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
-          "url": "https://flash.jin10.com/detail/20251212010455282800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
-          "url": "https://flash.jin10.com/detail/20251212000641359800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时22分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3019371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时20分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
-          "url": "https://flash.jin10.com/detail/20251212010409601800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
-          "url": "https://flash.jin10.com/detail/20251212010242999800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
-          "url": "https://flash.jin10.com/detail/20251212015625027800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
-          "url": "https://wallstreetcn.com/livenews/3019411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "谷歌公司：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。 推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。 开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
-          "url": "https://wallstreetcn.com/livenews/3019352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "00时20分"
         }
       ]
     }
