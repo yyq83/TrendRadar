@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T06:16:48.540677+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-12-13T07:16:55.032630+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -38,11 +38,24 @@
             1,
             4,
             9,
-            24
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时16分]"
+          "time_info": "[04时18分 ~ 07时16分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时25分]"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时25分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
