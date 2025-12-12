@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T13:18:08.891967+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2025-12-12T14:27:04.184981+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,33 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 14时27分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时15分 ~ 13时18分]"
+          "time_info": "[11时20分 ~ 14时27分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 14时27分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -32,16 +57,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 14时27分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -55,30 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时20分]"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时18分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时18分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
