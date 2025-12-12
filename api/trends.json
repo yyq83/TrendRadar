@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:23:52.621065+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2025-12-12T17:21:17.674856+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时20分 ~ 17时21分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -40,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 17时21分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
