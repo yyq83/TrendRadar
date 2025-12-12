@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:21:01.551567+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-12-12T16:23:52.621065+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 16时23分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时20分 ~ 15时21分]"
+          "time_info": "[12时31分 ~ 16时23分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时20分 ~ 15时21分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 15时21分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
