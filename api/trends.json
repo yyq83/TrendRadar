@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:12:54.792558+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2025-12-13T12:22:42.830517+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 11时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 12时22分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 11时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 12时22分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -89,11 +89,12 @@
           "ranks": [
             12,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 12时22分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -177,7 +178,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
