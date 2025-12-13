@@ -1,189 +1,33 @@
 {
-  "generated_at": "2025-12-13T23:15:13.919063+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2025-12-14T00:19:39.870706+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            5,
-            7,
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时16分 ~ 23时15分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时22分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时22分]"
-        },
-        {
-          "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
-          "url": "https://wallstreetcn.com/livenews/3020118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            9,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时16分]"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时18分 ~ 09时11分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
-          "url": "https://flash.jin10.com/detail/20251213021313071800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时25分]"
-        },
-        {
-          "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
-          "url": "https://www.zhihu.com/question/1982756499861304580",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 05时15分]"
-        },
-        {
-          "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3020076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时25分]"
-        },
-        {
-          "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
-          "url": "https://wallstreetcn.com/livenews/3020070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时25分]"
-        },
-        {
-          "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
-          "url": "https://flash.jin10.com/detail/20251212235925421800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "甲骨文回应：不会推迟建设与OpenAI合同承诺所需的站点",
-          "url": "https://flash.jin10.com/detail/20251213021313071800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "甲骨文回应：不会推迟与OpenAI相关的数据中心建设",
-          "url": "https://flash.jin10.com/detail/20251213021313071800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
-          "url": "https://www.cls.cn/detail/2228546",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "time_info": "00时19分"
         }
       ]
     }
