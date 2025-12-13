@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-13T16:20:40.843058+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-12-13T17:16:08.509442+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 13,
       "titles": [
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时16分 ~ 17时16分]"
+        },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
@@ -30,22 +46,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 12时22分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            5,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 16时20分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
