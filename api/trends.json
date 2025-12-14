@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T07:15:17.304603+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-12-14T09:21:12.475567+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251213225118795800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 09时21分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
