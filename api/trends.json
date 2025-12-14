@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:33:41.138265+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2025-12-14T13:17:16.316653+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时17分]"
         }
       ]
     },
@@ -56,11 +56,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时17分]"
         }
       ]
     }
