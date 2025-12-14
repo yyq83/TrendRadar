@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:23:47.193374+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2025-12-14T15:16:02.863435+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -22,17 +22,6 @@
           "time_info": "[00时19分 ~ 13时17分]"
         },
         {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
           "title": "华尔街日报：OpenAI将取消员工股权归属期",
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
@@ -42,8 +31,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
