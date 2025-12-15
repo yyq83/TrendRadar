@@ -1,42 +1,7 @@
 {
-  "generated_at": "2025-12-15T23:21:43.099949+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2025-12-16T00:36:07.501891+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "传联发科拿下两代谷歌TPU定制大单",
-          "url": "https://flash.jin10.com/detail/20251215105959893800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一手好牌打稀烂,deepseek成弃子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
