@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T16:25:04.970999+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2025-12-16T17:22:55.351548+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“俄版谷歌”，正帮中国商人大赚",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时27分 ~ 16时25分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
