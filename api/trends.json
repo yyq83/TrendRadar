@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:18:40.720252+08:00",
-  "total_titles_processed": 2078,
+  "generated_at": "2025-12-17T23:19:23.914299+08:00",
+  "total_titles_processed": 2162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -54,6 +54,29 @@
           "time_info": "[03时17分 ~ 04时20分]"
         },
         {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时19分]"
+        },
+        {
+          "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -71,18 +94,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -142,6 +154,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "ChatGPT找不出美国应对彩虹-7的方法",
+          "url": "https://www.toutiao.com/trending/7584059510923739178/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "OpenAI发布GPT Image1.5",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
           "source": "bilibili 热搜",
@@ -156,7 +179,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
@@ -180,6 +203,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时35分 ~ 21时31分]"
+        },
+        {
+          "title": "谷歌拟提升TPU芯片与PyTorch的兼容性 以抢占AI计算市场",
+          "url": "https://flash.jin10.com/detail/20251217230625618800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)和Meta Platforms(META.O)项目旨在让TPU在AI程序构建工具PyTorch上良好运行，作为英伟达(NVDA.O)的替代方案。",
+          "url": "https://flash.jin10.com/detail/20251217230212240800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)正与Meta Platforms(META.O)合作，扩大对AI芯片的软件支持。",
+          "url": "https://flash.jin10.com/detail/20251217230125955800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     }
