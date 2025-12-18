@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T12:31:22.399817+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-12-18T13:19:32.910451+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 13时19分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
