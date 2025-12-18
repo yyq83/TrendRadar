@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:34:14.723380+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2025-12-18T22:19:10.976210+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时26分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[14时26分 ~ 22时19分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时19分 ~ 17时22分]"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时19分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时34分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
