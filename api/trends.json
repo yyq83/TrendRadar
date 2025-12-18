@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:18:53.503822+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2025-12-18T19:16:13.045343+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时26分 ~ 19时16分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -54,6 +55,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时16分]"
+        },
+        {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
           "url": "https://wallstreetcn.com/livenews/3022640",
           "source": "华尔街见闻-快讯",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "据悉OpenAI和Anthropic寻求扩大欧洲办公空间",
