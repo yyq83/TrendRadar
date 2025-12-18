@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T11:18:15.256245+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-12-18T12:31:22.399817+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,23 @@
           "url": "https://www.cls.cn/detail/2232894",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时31分]"
+        },
+        {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时18分]"
+          "time_info": "[11时17分 ~ 12时31分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -66,17 +78,6 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
-          "url": "https://www.cls.cn/detail/2232789",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
-        },
-        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -94,7 +95,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
