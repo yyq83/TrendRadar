@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T16:23:32.003872+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2025-12-19T17:20:40.551412+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
@@ -214,11 +214,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时20分]"
         },
         {
           "title": "大摩为谷歌相关项目发行更多垃圾债",
