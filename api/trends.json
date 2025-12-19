@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T07:16:45.637123+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2025-12-19T09:16:19.021132+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时16分]"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -107,7 +108,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
