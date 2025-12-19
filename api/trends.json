@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-20T00:21:35.150722+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-20T01:16:34.496820+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
