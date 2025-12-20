@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T17:16:13.578634+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-12-20T18:16:25.410446+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 12时22分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
