@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T03:12:52.188890+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-12-21T04:16:55.638453+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     },
@@ -69,8 +69,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时16分]"
         }
       ]
     }
