@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:15:08.307213+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-12-20T23:16:07.392555+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,35 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时16分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时31分 ~ 23时16分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "time_info": "[21时24分 ~ 23时16分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -59,31 +86,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 12时22分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时15分]"
-        },
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时15分]"
         }
       ]
     },
@@ -115,11 +117,12 @@
             6,
             10,
             12,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 23时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
