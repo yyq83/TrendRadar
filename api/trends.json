@@ -1,12 +1,39 @@
 {
-  "generated_at": "2025-12-21T07:15:20.087654+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-12-21T09:21:02.814939+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时21分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时21分]"
+        },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
@@ -16,33 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时21分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -50,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 09时21分]"
         }
       ]
     },
