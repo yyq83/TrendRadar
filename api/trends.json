@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T19:13:54.559250+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2025-12-21T20:31:13.547518+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -106,6 +106,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
         }
       ]
     }
