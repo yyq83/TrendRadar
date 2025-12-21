@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:21:44.872948+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-12-21T17:16:41.820503+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 17时16分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 17时16分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时16分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时21分]"
         }
       ]
     }
