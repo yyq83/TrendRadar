@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T04:18:02.736071+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-12-22T05:14:57.872125+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 05时14分]"
         }
       ]
     },
@@ -58,8 +58,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
