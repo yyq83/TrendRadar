@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T13:17:41.412047+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-12-21T14:25:05.835858+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,22 @@
           "time_info": "[00时19分 ~ 13时17分]"
         },
         {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时25分]"
+        },
+        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
@@ -33,21 +49,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时19分 ~ 11时26分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时17分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -66,8 +67,22 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时25分]"
+        },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
           "url": "https://wallstreetcn.com/livenews/3024274",
@@ -80,17 +95,15 @@
           "time_info": "[00时19分 ~ 04时16分]"
         },
         {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     }
