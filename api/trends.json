@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:16:35.718105+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-12-21T16:21:44.872948+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
             9,
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 15时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 16时21分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -99,11 +100,12 @@
           "url": "https://wallstreetcn.com/articles/3761777",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 16时21分]"
         }
       ]
     }
