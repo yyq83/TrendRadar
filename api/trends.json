@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:21:37.713749+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-12-22T14:28:27.870221+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时28分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 14时28分]"
         }
       ]
     },
