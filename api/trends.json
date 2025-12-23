@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T11:23:43.451048+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2025-12-23T12:35:16.124802+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 11时23分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 12时35分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -41,7 +41,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
