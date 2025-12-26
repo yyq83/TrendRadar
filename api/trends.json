@@ -1,55 +1,7 @@
 {
-  "generated_at": "2025-12-26T23:17:39.399202+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2025-12-27T00:19:31.267484+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 18时18分]"
-        },
-        {
-          "title": "谷歌将允许用户更改Gmail邮箱地址",
-          "url": "https://flash.jin10.com/detail/20251226220031392800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
