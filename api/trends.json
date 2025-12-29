@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T22:18:37.036696+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2025-12-29T23:18:53.803133+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时15分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[19时15分 ~ 23时18分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -54,11 +54,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 23时18分]"
         }
       ]
     }
