@@ -1,36 +1,8 @@
 {
-  "generated_at": "2025-12-29T23:18:53.803133+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2025-12-30T00:21:12.274739+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "ChatGPT帮他杀死83岁母亲？",
-          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时25分]"
-        },
-        {
-          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
-          "url": "https://wallstreetcn.com/articles/3762142",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 14时29分]"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 2,
@@ -40,26 +12,22 @@
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时15分 ~ 23时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时35分 ~ 23时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
