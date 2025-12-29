@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T12:45:19.887270+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-12-29T13:25:44.498855+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 13时25分]"
         },
         {
           "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
@@ -25,9 +25,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时25分]"
         }
       ]
     }
