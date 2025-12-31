@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T04:18:31.210636+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-01-01T05:15:20.341942+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
+          "url": "https://www.zhihu.com/question/1987568735523980297",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     }
