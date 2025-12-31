@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-12-31T07:15:53.641955+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-12-31T09:17:35.606889+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "软银：完成对OpenAI的225亿美元追加投资，共计持有OpenAI约11%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3028971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "软银集团宣布完成对OpenAI的额外225亿美元投资，在OpenAI中的合计持股比例现约为11%。",
+          "url": "https://flash.jin10.com/detail/20251231080437966800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
+          "url": "https://wallstreetcn.com/livenews/3028826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -31,23 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
-          "url": "https://wallstreetcn.com/livenews/3028826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
         }
       ]
     }
