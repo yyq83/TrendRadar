@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:15:19.357897+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-01T20:33:37.469477+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时33分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -26,11 +27,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 20时33分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -38,11 +40,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时33分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
