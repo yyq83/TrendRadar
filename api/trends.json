@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T01:15:35.146677+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-01-03T02:24:13.933759+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时24分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时24分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时24分]"
         }
       ]
     },
@@ -64,11 +64,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时24分]"
         }
       ]
     }
