@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T22:17:09.777859+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-01-02T23:18:29.892718+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时23分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 23时18分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时21分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 23时18分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -87,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时18分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -144,11 +144,12 @@
             12,
             19,
             10,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时27分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[11时27分 ~ 23时18分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -165,8 +166,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时21分 ~ 22时17分]"
+          "appearance_count": 29,
+          "time_info": "[00时21分 ~ 23时18分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
