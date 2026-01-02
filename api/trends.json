@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T07:16:33.187264+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-02T09:18:12.018825+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时14分]"
+        },
+        {
+          "title": "消息称OpenAI大力研发音频AI模型",
+          "url": "https://www.toutiao.com/trending/7589869384954150963/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     },
@@ -66,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时18分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -78,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时18分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
