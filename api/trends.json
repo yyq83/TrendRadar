@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T11:27:35.195126+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-02T12:37:39.568399+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 11时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 12时37分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 11时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 12时37分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -55,20 +55,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
           "url": "https://www.zhihu.com/question/1990084005744362243",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         }
       ]
     },
