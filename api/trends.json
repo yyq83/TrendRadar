@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:29:58.267605+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-01-03T13:18:19.908858+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         }
       ]
     },
@@ -66,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
