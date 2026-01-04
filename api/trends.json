@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-01-04T23:15:50.829864+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-01-05T00:19:32.361415+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini向小胖道歉",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E5%90%91%E5%B0%8F%E8%83%96%E9%81%93%E6%AD%89&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
-          "url": "https://www.zhihu.com/question/1990117220391622363",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
