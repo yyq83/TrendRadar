@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T04:21:20.247038+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-06T05:17:00.892208+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时17分]"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星今年将为8亿设备配备谷歌AI",
+          "url": "https://wallstreetcn.com/livenews/3031083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     }
