@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T05:17:00.892208+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-01-06T06:17:26.451727+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时17分]"
+        },
+        {
+          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3031108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
@@ -44,7 +55,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
