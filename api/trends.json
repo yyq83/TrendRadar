@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-06T12:36:34.900900+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-01-06T13:21:58.699451+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
         {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
