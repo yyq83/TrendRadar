@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-09T00:24:24.886905+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-09T01:24:12.729753+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
+          "url": "https://www.cls.cn/detail/2252328",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时24分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
