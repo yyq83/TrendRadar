@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T17:25:14.346634+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-01-08T18:20:38.718472+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 18时20分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
