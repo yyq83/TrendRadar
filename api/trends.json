@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T14:28:17.997802+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-01-08T15:22:16.028010+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -36,11 +36,23 @@
           "url": "https://www.zhihu.com/question/1992511254795870608",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时22分]"
+        },
+        {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "15时22分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
