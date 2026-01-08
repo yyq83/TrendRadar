@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T22:22:05.588514+08:00",
-  "total_titles_processed": 2070,
+  "generated_at": "2026-01-08T23:21:25.703905+08:00",
+  "total_titles_processed": 2168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
+          "url": "https://flash.jin10.com/detail/20260108224229611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -154,7 +165,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
