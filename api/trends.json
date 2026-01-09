@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T06:17:33.859680+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-01-10T07:17:11.469050+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -121,7 +121,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         }
@@ -129,7 +129,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -137,11 +137,23 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 07时17分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         }
       ]
     }
