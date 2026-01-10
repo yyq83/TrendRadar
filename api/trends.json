@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:31:43.149339+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-01-10T13:18:36.366781+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时18分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -141,7 +142,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -154,8 +155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时20分 ~ 12时31分]"
+          "appearance_count": 10,
+          "time_info": "[04时20分 ~ 13时18分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -167,8 +168,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 13时18分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -180,8 +181,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时18分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     }
