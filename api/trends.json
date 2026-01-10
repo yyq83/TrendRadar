@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T07:17:11.469050+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-01-10T09:16:12.997522+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -129,7 +129,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -141,19 +141,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时20分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[04时20分 ~ 09时16分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
           "url": "https://wallstreetcn.com/articles/3762982",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 09时16分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
+          "time_info": "[09时15分 ~ 09时16分]"
         }
       ]
     }
