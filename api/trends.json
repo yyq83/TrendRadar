@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:16:52.893423+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-01-10T19:14:15.735784+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时16分 ~ 18时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 19时14分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -59,11 +59,26 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 19时14分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时16分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -79,19 +94,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时24分 ~ 18时16分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 18时16分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
