@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T20:31:54.569890+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-01-10T21:27:13.499704+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时16分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[07时16分 ~ 21时27分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时15分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -63,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时24分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时24分 ~ 21时27分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -77,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 20时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -96,6 +96,18 @@
           "time_info": "[14时24分 ~ 18时16分]"
         },
         {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时27分]"
+        },
+        {
           "title": "DeepSeek准备第二次震惊全世界",
           "url": "https://www.toutiao.com/trending/7593519269174840858/",
           "source": "今日头条",
@@ -105,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
-          "url": "https://www.zhihu.com/question/1993329446883651767",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         }
       ]
     },
