@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-12T20:37:52.848482+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-01-12T21:40:03.579139+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时23分 ~ 21时40分]"
+        },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
@@ -35,18 +47,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时23分 ~ 20时37分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
