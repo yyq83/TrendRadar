@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:26:42.594367+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-13T03:18:49.012703+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时18分]"
+        },
+        {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
           "url": "https://flash.jin10.com/detail/20260113001151493800",
           "source": "金十数据",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
