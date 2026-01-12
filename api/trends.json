@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T01:20:53.683406+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-13T02:26:42.594367+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
