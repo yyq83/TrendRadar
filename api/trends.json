@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-15T03:17:13.283232+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-15T04:17:50.056437+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3037234",
@@ -18,6 +40,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时17分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260115040115164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115040037235800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     },
@@ -52,8 +96,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时17分]"
         }
       ]
     }
