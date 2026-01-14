@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T19:18:19.702652+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-01-14T20:36:35.213883+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 20时36分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -86,7 +86,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时25分 ~ 11时44分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
