@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T02:31:24.938392+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-16T03:21:57.614332+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时21分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -38,7 +39,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -49,7 +50,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
@@ -66,11 +67,12 @@
           "ranks": [
             10,
             22,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时21分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -99,8 +101,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时21分]"
         }
       ]
     }
