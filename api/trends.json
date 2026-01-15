@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:36:12.350865+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-01-15T21:37:48.559914+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
@@ -100,11 +111,12 @@
           "url": "https://www.zhihu.com/question/1995072623625855863",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时37分]"
         },
         {
           "title": "UP主大白话解读DeepSeek新论文",
@@ -124,7 +136,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         }
@@ -146,11 +158,12 @@
             19,
             16,
             15,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[12时37分 ~ 21时37分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
