@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T07:15:27.086074+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-01-15T09:16:51.008101+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时16分]"
+        },
+        {
+          "title": "UP主大白话解读DeepSeek新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -91,25 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时15分]"
         }
       ]
     }
