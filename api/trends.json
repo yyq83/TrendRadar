@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T04:19:05.243234+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-01-17T05:17:25.166483+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -82,6 +82,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260117050916317800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     }
