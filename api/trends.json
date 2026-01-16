@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:18:37.673665+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-17T04:19:05.243234+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时19分]"
         },
         {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
@@ -37,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时19分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -49,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时19分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -61,22 +64,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时19分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
           "url": "https://flash.jin10.com/detail/20260117021136642800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时19分]"
         }
       ]
     }
