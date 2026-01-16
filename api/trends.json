@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T11:27:23.505536+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-01-16T12:36:53.607248+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -15,11 +15,12 @@
             5,
             3,
             1,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时36分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时29分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
