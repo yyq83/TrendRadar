@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T12:39:08.812313+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-18T13:20:51.225970+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 13时20分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -44,6 +44,18 @@
           "time_info": "[09时23分 ~ 11时43分]"
         },
         {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 13时20分]"
+        },
+        {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
           "url": "https://www.zhihu.com/question/1995898061478651512",
           "source": "知乎",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
         }
       ]
     }
