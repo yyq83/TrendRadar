@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:26:54.753414+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-01-18T22:15:20.310576+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时25分 ~ 21时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 22时15分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -43,8 +43,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时38分 ~ 21时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时38分 ~ 22时15分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -95,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时15分]"
         }
       ]
     }
