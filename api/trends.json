@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T09:24:08.760795+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-01-18T11:43:01.072499+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -21,22 +21,34 @@
           "time_info": "[00时18分 ~ 09时24分]"
         },
         {
-          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
-          "url": "https://www.zhihu.com/question/1995898061478651512",
-          "source": "知乎",
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时43分]"
+        },
+        {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "url": "https://wallstreetcn.com/articles/3763519",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
+          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
+          "url": "https://www.zhihu.com/question/1995898061478651512",
+          "source": "知乎",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
