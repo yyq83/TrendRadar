@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T07:16:22.426143+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-18T09:24:08.760795+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -17,8 +17,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 09时24分]"
+        },
+        {
+          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
+          "url": "https://www.zhihu.com/question/1995898061478651512",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     }
