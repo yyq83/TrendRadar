@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T09:23:01.858485+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-01-19T11:47:18.966764+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 11时47分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -43,11 +43,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 11时47分]"
         }
       ]
     }
