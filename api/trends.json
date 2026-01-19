@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T07:16:37.920090+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-01-19T09:23:01.858485+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时23分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -45,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时23分]"
         }
       ]
     }
