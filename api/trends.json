@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T19:21:27.461102+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-01-20T20:40:06.726739+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时18分 ~ 15时24分]"
+        },
+        {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -67,11 +78,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时40分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
