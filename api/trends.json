@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T16:26:24.347001+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-01-20T17:30:31.948033+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
+          "url": "https://www.cls.cn/detail/2262987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
           "url": "https://wallstreetcn.com/livenews/3039830",
