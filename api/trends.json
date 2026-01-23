@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T17:26:49.207014+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-01-23T18:21:25.525643+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,18 @@
           "time_info": "[03时22分 ~ 04时21分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时21分]"
+        },
+        {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
           "url": "https://flash.jin10.com/detail/20260123151617900800",
           "source": "金十数据",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
