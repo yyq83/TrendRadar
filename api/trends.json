@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:17:58.863606+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-01-23T20:37:45.264856+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "00时29分"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 20时37分]"
+        },
+        {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
           "url": "https://wallstreetcn.com/livenews/3042255",
           "source": "华尔街见闻-快讯",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时21分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
         },
         {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
