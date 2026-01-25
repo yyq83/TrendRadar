@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-01-25T23:16:45.029602+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-26T00:20:48.183369+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3043305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
-          "url": "https://www.zhihu.com/question/1996908423174910237",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 13时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
