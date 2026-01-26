@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-26T21:41:44.664538+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2026-01-26T22:24:51.189863+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
