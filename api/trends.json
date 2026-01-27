@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T03:23:55.580088+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-01-28T04:21:53.818536+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
@@ -120,8 +120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -132,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -144,8 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     }
