@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T04:21:53.818536+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-01-28T05:16:07.818149+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "OpenAI推出面向科学家的全新工具Prism",
+          "url": "https://flash.jin10.com/detail/20260128043059691800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
@@ -120,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -132,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -144,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 05时16分]"
         }
       ]
     }
