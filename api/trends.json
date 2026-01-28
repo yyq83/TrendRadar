@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:25:10.080018+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-01-28T14:31:29.324528+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 14时31分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -109,11 +110,12 @@
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 13时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 14时31分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -214,11 +216,12 @@
             4,
             15,
             9,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 12时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 14时31分]"
         }
       ]
     }
