@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-28T11:42:16.284796+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-01-28T12:41:31.842542+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
+        {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时41分]"
+        },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
           "url": "https://wallstreetcn.com/livenews/3044925",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时23分]"
-        },
-        {
-          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1999186592472986900",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "软银拟向OpenAI追投至多300亿美元",
@@ -110,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 12时41分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -188,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 11时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 12时41分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -211,11 +212,12 @@
             5,
             4,
             15,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 11时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 12时41分]"
         }
       ]
     }
