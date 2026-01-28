@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:44:44.490025+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-01-28T22:26:50.667215+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -17,8 +17,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时19分 ~ 21时44分]"
+          "appearance_count": 17,
+          "time_info": "[09时19分 ~ 22时26分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
