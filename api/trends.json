@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:20:06.680201+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-01-28T11:42:16.284796+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -20,13 +20,24 @@
           "time_info": "[02时32分 ~ 03时23分]"
         },
         {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
           "title": "软银拟向OpenAI追投至多300亿美元",
           "url": "https://flash.jin10.com/detail/20260128085403401800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -89,8 +100,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 11时42分]"
+        },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
           "url": "https://flash.jin10.com/detail/20260128020246054800",
@@ -102,17 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时23分]"
-        },
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -149,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时32分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         }
       ]
     },
@@ -166,21 +188,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 09时20分]"
-        },
-        {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 09时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 11时42分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -193,6 +202,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 11时42分]"
         }
       ]
     }
