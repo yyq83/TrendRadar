@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:38:13.815251+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-01-29T18:32:23.698849+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
