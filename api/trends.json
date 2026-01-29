@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T00:38:42.207703+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-30T01:34:24.316225+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时34分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时34分]"
         }
       ]
     }
