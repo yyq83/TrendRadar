@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:38:53.544411+08:00",
-  "total_titles_processed": 2154,
+  "generated_at": "2026-01-29T23:32:08.777078+08:00",
+  "total_titles_processed": 2241,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时27分 ~ 22时38分]"
+          "appearance_count": 9,
+          "time_info": "[19时27分 ~ 23时32分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
           "url": "https://www.zhihu.com/question/1999888901490304692",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
+          "appearance_count": 5,
+          "time_info": "[21时57分 ~ 23时32分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -70,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时37分 ~ 22时38分]"
+          "appearance_count": 12,
+          "time_info": "[17时37分 ~ 23时32分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
