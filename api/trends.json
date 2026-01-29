@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T19:28:11.434257+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-01-29T20:45:12.057812+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 20时45分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -67,11 +68,12 @@
           "ranks": [
             27,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 20时45分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
