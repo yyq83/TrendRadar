@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T05:23:59.018656+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-01-31T06:20:44.641309+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时29分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时29分 ~ 06时20分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 06时20分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
