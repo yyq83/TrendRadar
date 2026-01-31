@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T04:21:00.558800+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-02-01T05:18:34.519870+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时18分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时18分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -38,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时18分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -49,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时18分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 05时18分]"
         }
       ]
     },
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时18分]"
         }
       ]
     }
