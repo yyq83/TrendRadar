@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:21:07.612548+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-01-31T23:19:06.215157+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时19分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -67,11 +68,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -79,11 +81,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -91,11 +94,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时19分]"
         }
       ]
     },
@@ -103,6 +107,20 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时17分 ~ 23时19分]"
+        },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
           "url": "https://flash.jin10.com/detail/20260131025828448800",
@@ -115,20 +133,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时29分 ~ 09时27分]"
-        },
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 22时21分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
