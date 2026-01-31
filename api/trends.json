@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T01:20:52.480500+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-02-01T02:25:57.372649+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -48,8 +48,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         }
       ]
     },
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
