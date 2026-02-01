@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:21:48.833437+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-02-02T02:28:31.843844+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     }
