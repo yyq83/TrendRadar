@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:32:27.030572+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-02-03T17:36:34.042191+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -145,6 +145,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         }
       ]
     }
