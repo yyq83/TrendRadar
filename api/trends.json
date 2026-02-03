@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T06:25:44.105117+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-04T07:24:59.531484+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -116,7 +116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20260204062113821800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "OpenAI：ChatGPT当前存在一些问题。",
@@ -171,7 +182,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -209,11 +220,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时24分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
