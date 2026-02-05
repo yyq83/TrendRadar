@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T04:29:13.519010+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-02-06T05:24:31.728220+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时24分]"
         },
         {
           "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
@@ -92,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时24分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -103,19 +104,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时24分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时24分]"
         }
       ]
     }
