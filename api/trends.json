@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:36:51.394667+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-02-05T19:32:50.435634+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 19时32分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -42,8 +42,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 19时32分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 19时32分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 18时36分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -308,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 19时32分]"
         }
       ]
     }
