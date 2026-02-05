@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:22:39.605000+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-02-06T07:20:22.885572+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -86,6 +86,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -97,27 +108,17 @@
           "time_info": "[00时41分 ~ 06时22分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时22分]"
-        },
-        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时20分]"
         }
       ]
     }
