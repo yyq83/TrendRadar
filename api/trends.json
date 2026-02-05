@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:32:50.435634+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-02-05T20:52:06.836062+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时31分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 20时52分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -50,11 +50,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[15时46分 ~ 20时52分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -308,8 +309,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[15时46分 ~ 20时52分]"
         }
       ]
     }
