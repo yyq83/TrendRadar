@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-02-07T00:38:58.180548+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-07T01:38:35.958832+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3051568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3051561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260207010008525800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：OpenAI正与阿布扎比的G42洽谈，为阿联酋打造专用版ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260207005142031800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼在社交平台发起投票，询问客户希望如何对Codex收费？选项包括固定的月费订阅以及按使用量计费，每段20美元。",
+          "url": "https://flash.jin10.com/detail/20260207005121782800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
+          "url": "https://flash.jin10.com/detail/20260207004458170800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -15,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时38分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -28,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260207004917711800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     }
