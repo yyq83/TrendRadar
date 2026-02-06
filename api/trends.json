@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T05:27:29.608526+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-02-07T06:19:26.633286+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时27分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -122,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时19分]"
         },
         {
           "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
@@ -132,7 +132,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -144,8 +144,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时27分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时19分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
