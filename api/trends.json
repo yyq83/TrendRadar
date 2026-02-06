@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T07:20:22.885572+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-02-06T09:31:20.132172+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -83,7 +83,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -93,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 09时31分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -119,6 +119,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     }
