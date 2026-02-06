@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:38:00.462168+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-02-06T18:35:02.718168+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "实测OpenAI和Cluade模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
@@ -131,8 +142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 17时38分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 18时35分]"
         }
       ]
     }
