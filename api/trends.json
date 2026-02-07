@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T17:26:59.037426+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-07T18:21:04.433611+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 18时21分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -210,11 +210,12 @@
             10,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 17时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 18时21分]"
         }
       ]
     }
