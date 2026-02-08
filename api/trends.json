@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-08T15:36:31.698161+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-02-08T16:28:18.098519+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
