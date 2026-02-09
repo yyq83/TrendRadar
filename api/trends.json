@@ -1,158 +1,33 @@
 {
-  "generated_at": "2026-02-09T23:51:38.352151+08:00",
-  "total_titles_processed": 1825,
+  "generated_at": "2026-02-10T01:47:58.984731+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 12时24分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
-          "url": "https://wallstreetcn.com/livenews/3052346",
+          "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052460",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            25
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
-          "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
-          "url": "https://flash.jin10.com/detail/20260209172748613800",
+          "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
+          "url": "https://flash.jin10.com/detail/20260210010437354800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
-          "url": "https://flash.jin10.com/detail/20260209161349055800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
-          "url": "https://wallstreetcn.com/livenews/3052196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "谷歌母公司Alphabet计划通过美元债券发行筹集约150亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
-          "url": "https://flash.jin10.com/detail/20260209184350182800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI准备在本周推出更新版聊天模型",
-          "url": "https://wallstreetcn.com/livenews/3052361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
-          "url": "https://flash.jin10.com/detail/20260209211725388800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "据CNBC：ChatGPT月增长率超过10%。",
-          "url": "https://flash.jin10.com/detail/20260209210816509800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
-          "url": "https://flash.jin10.com/detail/20260209210728140800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi建议网友先用DeepSeek",
-          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "01时47分"
         }
       ]
     }
