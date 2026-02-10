@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T12:34:52.297621+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-02-10T14:10:24.142946+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 14时10分]"
         },
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -36,7 +37,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
