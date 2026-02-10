@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T00:03:13.122873+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-11T01:58:00.050785+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌以320亿美元收购Wiz的交易获得欧盟反垄断无条件批准。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
+          "url": "https://flash.jin10.com/detail/20260211012335531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
@@ -36,9 +47,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练体验正向全球更多用户扩展。",
+          "url": "https://flash.jin10.com/detail/20260211012231222800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     }
