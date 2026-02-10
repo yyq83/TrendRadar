@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T01:58:00.050785+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-11T03:03:49.996108+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌以320亿美元收购Wiz的交易获得欧盟反垄断无条件批准。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
+          "url": "https://flash.jin10.com/detail/20260211023723066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         },
         {
           "title": "欧盟委员会声明：欧盟无条件批准谷歌公司的320亿美元网络安全交易。",
@@ -36,7 +47,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
