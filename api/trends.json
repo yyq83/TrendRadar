@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T07:35:20.607477+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-11T09:55:41.373809+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
