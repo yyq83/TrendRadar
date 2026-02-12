@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:37:36.153173+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-02-12T20:57:19.126860+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -48,18 +48,6 @@
           "time_info": "[01时02分 ~ 19时37分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时02分 ~ 19时37分]"
-        },
-        {
           "title": "DeepSeek新模型来了？",
           "url": "https://wallstreetcn.com/articles/3765514",
           "source": "华尔街见闻",
@@ -85,6 +73,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时02分 ~ 09时49分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[01时02分 ~ 20时57分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
