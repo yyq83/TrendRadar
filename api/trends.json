@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T16:40:32.468336+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-02-12T17:43:37.270452+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             5,
             14,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 16时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 17时43分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -53,8 +54,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 16时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 17时43分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 17时43分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -68,20 +83,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时02分 ~ 09时49分]"
-        },
-        {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时25分 ~ 16时40分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
