@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T13:56:47.567583+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-02-13T14:56:06.471989+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Yelp与OpenAI构建合作伙伴关系。",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时24分]"
+        },
+        {
+          "title": "OpenAI指责DeepSeek“抄袭”背后",
+          "url": "https://www.toutiao.com/trending/7606207773960834579/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -176,7 +187,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -206,8 +217,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 13时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时56分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -220,11 +231,12 @@
             17,
             25,
             15,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 13时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时56分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -233,11 +245,23 @@
           "ranks": [
             1,
             10,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时56分]"
+        },
+        {
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
         }
       ]
     }
