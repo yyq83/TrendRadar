@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:39:12.333037+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-02-13T18:35:46.188985+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -215,11 +215,12 @@
             13,
             15,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 18时35分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -234,11 +235,12 @@
             15,
             16,
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 18时35分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -255,6 +257,33 @@
           "time_info": "[09时51分 ~ 14时56分]"
         },
         {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时35分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时35分]"
+        },
+        {
           "title": "DeepSeek回应被指变冷淡",
           "url": "https://www.toutiao.com/trending/7606192815403437609/",
           "source": "今日头条",
@@ -266,31 +295,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时55分 ~ 16时37分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时39分]"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时39分]"
         }
       ]
     }
