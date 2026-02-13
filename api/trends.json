@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:17:38.616454+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-13T13:56:47.567583+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -206,8 +206,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 13时56分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -219,11 +219,12 @@
             30,
             17,
             25,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 13时56分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -231,11 +232,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 13时56分]"
         }
       ]
     }
