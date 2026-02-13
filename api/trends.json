@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-02-14T00:40:03.559992+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-02-14T01:37:46.439328+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
+          "url": "https://flash.jin10.com/detail/20260214005013634800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "Gemini3深度思考模型重磅升级",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -12,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 01时37分]"
         }
       ]
     }
