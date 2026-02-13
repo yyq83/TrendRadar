@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:40:34.671341+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-14T04:33:31.025748+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时33分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -52,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时33分]"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
@@ -84,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时33分]"
         }
       ]
     }
