@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T07:24:49.382234+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-02-13T09:51:30.479279+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Yelp与OpenAI构建合作伙伴关系。",
@@ -67,6 +67,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "OpenAI CEO：马斯克攻击我们很荒唐",
+          "url": "https://www.toutiao.com/trending/7605754485696135187/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
           "url": "https://wallstreetcn.com/livenews/3054665",
           "source": "华尔街见闻-快讯",
@@ -81,7 +92,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
@@ -116,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
@@ -154,7 +176,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -169,8 +191,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时51分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -180,11 +202,12 @@
             12,
             13,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时51分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -199,8 +222,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时51分]"
+        },
+        {
+          "title": "DeepSeek变冷淡了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
