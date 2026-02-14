@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T07:26:52.798614+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-02-14T09:31:09.882991+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -61,7 +61,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -72,7 +72,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -155,11 +155,23 @@
             4,
             6,
             8,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         }
       ]
     }
