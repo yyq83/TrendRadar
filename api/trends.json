@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:27:12.379067+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-02-14T18:22:13.243556+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -154,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[09时30分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -163,11 +164,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -177,11 +179,12 @@
             23,
             17,
             16,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -192,8 +195,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 18时22分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -230,11 +233,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 18时22分]"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
@@ -255,11 +259,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
