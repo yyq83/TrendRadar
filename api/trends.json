@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T05:20:16.293330+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-02-15T06:19:02.099263+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     },
@@ -56,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     },
@@ -73,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     }
