@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:23:17.674510+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-02-15T23:21:01.793391+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时21分]"
         },
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
@@ -83,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时50分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 23时21分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -141,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
