@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:19:26.934212+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-02-15T20:39:16.005677+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时50分 ~ 20时39分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -137,11 +137,12 @@
           "url": "https://wallstreetcn.com/articles/3765742",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时39分]"
         }
       ]
     }
