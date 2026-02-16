@@ -1,172 +1,50 @@
 {
-  "generated_at": "2026-02-16T23:37:32.903970+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-02-17T00:38:08.546279+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 23时37分]"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
         },
         {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 14时04分]"
-        },
-        {
-          "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
-          "url": "https://flash.jin10.com/detail/20260216045621525800",
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
           "ranks": [
-            1,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
-          "url": "https://flash.jin10.com/detail/20260216054636166800",
-          "source": "金十数据",
-          "ranks": [
-            1,
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
-        },
-        {
-          "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
-          "url": "https://flash.jin10.com/detail/20260216042956745800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2006637072895738078",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
-          "url": "https://flash.jin10.com/detail/20260216153347079800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "00时38分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 22时04分]"
-        },
-        {
-          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
-          "url": "https://www.zhihu.com/question/2004209286281205228",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            15,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 07时21分]"
-        },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 23时37分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时37分]"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -175,37 +53,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "千问3.5成本仅为谷歌大模型5%",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
         }
       ]
     }
