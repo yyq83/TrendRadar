@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:39:34.055149+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-02-17T17:43:14.978605+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -60,6 +60,17 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -99,8 +110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 16时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 17时43分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -114,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 16时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 17时43分]"
         },
         {
           "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
@@ -124,7 +135,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
