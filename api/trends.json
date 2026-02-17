@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T09:45:53.979133+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-02-17T12:15:44.426664+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -95,11 +95,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 09时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 12时15分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -112,8 +113,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 09时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 12时15分]"
         }
       ]
     }
