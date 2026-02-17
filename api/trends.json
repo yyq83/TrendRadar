@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T07:25:52.195339+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-02-17T09:45:53.979133+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             6,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 09时45分]"
         },
         {
           "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
@@ -39,11 +40,12 @@
           "ranks": [
             7,
             12,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 09时45分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -92,11 +94,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时45分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -109,8 +112,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时45分]"
         }
       ]
     }
