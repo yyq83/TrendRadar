@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:40:19.825581+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-02-18T19:35:56.078736+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "网络状况监测网站DownDetector：用户报告显示谷歌(GOOG.O)的使用出现问题。",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 01时53分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
