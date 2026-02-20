@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T19:29:01.453077+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-02-20T20:46:24.664591+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 12时11分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -70,6 +81,17 @@
           "time_info": "[03时36分 ~ 04时27分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
+          "url": "https://flash.jin10.com/detail/20260220200907201800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
           "url": "https://flash.jin10.com/detail/20260220082223005800",
           "source": "金十数据",
@@ -95,7 +117,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
@@ -117,11 +139,12 @@
           "ranks": [
             6,
             12,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时46分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
@@ -160,6 +183,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时44分]"
+        },
+        {
+          "title": "谷歌突然发布Gemini 3.1 Pro：核心推理性能直接翻倍",
+          "url": "https://wallstreetcn.com/articles/3765887",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
