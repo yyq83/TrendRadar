@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T20:37:07.856607+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-02-21T21:39:45.129685+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,18 @@
           "time_info": "[07时25分 ~ 15时29分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时39分]"
+        },
+        {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
           "url": "https://wallstreetcn.com/livenews/3057134",
           "source": "华尔街见闻-快讯",
@@ -37,18 +49,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时25分 ~ 14时36分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时37分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -117,11 +117,12 @@
             3,
             7,
             9,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 20时37分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 21时39分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
