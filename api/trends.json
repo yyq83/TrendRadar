@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T15:29:51.304255+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-02-21T16:25:37.598602+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
             7,
             10,
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 16时25分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -106,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时21分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[06时21分 ~ 16时25分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -119,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 16时25分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
