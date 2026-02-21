@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T00:23:38.123432+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T01:22:41.342973+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     }
