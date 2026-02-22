@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:21:02.716993+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-02-22T19:18:32.340871+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时33分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时33分 ~ 19时18分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -81,11 +81,12 @@
             13,
             14,
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时18分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -116,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 19时18分]"
         }
       ]
     }
