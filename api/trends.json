@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T16:26:43.281999+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-02-22T17:27:15.293110+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 17时27分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -27,11 +27,25 @@
             8,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时27分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时27分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 15时33分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时26分]"
         }
       ]
     },
@@ -76,11 +78,12 @@
             8,
             5,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 17时27分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -107,11 +110,12 @@
             16,
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时27分]"
         }
       ]
     }
