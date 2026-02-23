@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T12:21:28.772144+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-02-23T14:03:07.325600+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 12时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时03分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
