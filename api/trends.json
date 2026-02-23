@@ -1,56 +1,22 @@
 {
-  "generated_at": "2026-02-23T23:45:23.781833+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-02-24T00:53:22.207895+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 20时54分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
+          "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
+          "url": "https://flash.jin10.com/detail/20260224001507325800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            17,
-            16,
-            10,
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     }
