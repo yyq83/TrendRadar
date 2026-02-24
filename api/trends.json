@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T04:30:33.668004+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-02-25T05:30:54.497311+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -54,7 +54,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
@@ -69,11 +69,12 @@
           "url": "https://www.toutiao.com/trending/7610332842534374955/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 04时30分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 05时30分]"
         }
       ]
     }
