@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T18:43:56.368439+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-02-24T19:38:09.948129+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时38分]"
         },
         {
           "title": "中方回应美称DeepSeek违反出口管制",
@@ -75,11 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时38分]"
         }
       ]
     }
