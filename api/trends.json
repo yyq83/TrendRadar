@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:45:43.838070+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-02-25T19:38:15.710699+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时38分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
