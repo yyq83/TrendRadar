@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T01:55:18.404133+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-02-27T02:45:29.068044+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -29,6 +29,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时55分]"
+        },
+        {
+          "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
+          "url": "https://wallstreetcn.com/livenews/3059712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
+          "url": "https://flash.jin10.com/detail/20260227020628578800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
+          "url": "https://flash.jin10.com/detail/20260227020416151800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时45分"
         },
         {
           "title": "谷歌：推出Nano Banana 2，为新款Flash模型带来高保真图像生成与更快速、更先进的编辑功能。",
