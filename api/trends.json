@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T03:41:04.365857+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-02-27T04:32:20.093560+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时32分]"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
@@ -110,7 +111,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
