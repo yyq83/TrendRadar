@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:55:54.269975+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-26T14:54:53.258639+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
@@ -55,6 +55,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时33分]"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
