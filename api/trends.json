@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T06:18:44.689054+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-03-01T07:18:15.899917+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时18分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
