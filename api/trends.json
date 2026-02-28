@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:23:50.509017+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-28T17:22:23.737142+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时25分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[05时25分 ~ 17时22分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -47,6 +47,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时20分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 17时22分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -135,19 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时23分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 16时23分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
