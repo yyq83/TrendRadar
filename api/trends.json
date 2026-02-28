@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:19:35.325036+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-02-28T19:16:29.655393+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时25分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[05时25分 ~ 19时16分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -56,11 +56,12 @@
             8,
             16,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -173,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 12时52分]"
+        },
+        {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
