@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:21:24.366820+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-01T05:17:04.763372+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 10,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -19,8 +19,107 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时17分]"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260301050034835800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
+          "url": "https://flash.jin10.com/detail/20260301045433852800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
+          "url": "https://flash.jin10.com/detail/20260301045230715800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
+          "url": "https://flash.jin10.com/detail/20260301045126214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
+          "url": "https://flash.jin10.com/detail/20260301044943651800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，部署架构将使我们能够独立验证这些红线不会被突破。",
+          "url": "https://flash.jin10.com/detail/20260301044842219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表态称，不会向国防部提供“无安全约束”或未经安全训练的模型，也不在边缘设备上部署模型。",
+          "url": "https://flash.jin10.com/detail/20260301044547998800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，在与美国国防部的协议中，我们通过一种更为广泛、多层次的方法来保护我们的红线。",
+          "url": "https://flash.jin10.com/detail/20260301044444356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，该协议包含的防护措施比以往任何涉及机密AI部署的协议（包括Anthropic的协议）都要严格。",
+          "url": "https://flash.jin10.com/detail/20260301044417806800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
