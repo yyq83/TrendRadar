@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T09:52:47.961742+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-03-01T12:19:48.986059+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -21,8 +21,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时19分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
+          "url": "https://flash.jin10.com/detail/20260301120433529800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
