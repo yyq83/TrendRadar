@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T12:19:48.986059+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-03-01T13:49:04.026218+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 12时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 13时49分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -31,7 +31,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
