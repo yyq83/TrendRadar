@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T13:49:04.026218+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-03-01T14:40:11.849594+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -18,11 +18,12 @@
             19,
             10,
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 13时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时40分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -45,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "马斯克：我一点也不信任OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260301141148179800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
