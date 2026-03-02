@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-03-02T23:38:05.067471+08:00",
-  "total_titles_processed": 2148,
+  "generated_at": "2026-03-03T00:39:15.648848+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 12时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
-          "url": "https://www.cls.cn/detail/2298837",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
