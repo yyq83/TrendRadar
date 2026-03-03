@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:57:25.233307+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-03-03T22:42:03.285592+08:00",
+  "total_titles_processed": 2100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时57分]"
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 22时42分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
@@ -44,6 +44,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -56,6 +67,17 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
           "url": "https://wallstreetcn.com/livenews/3062280",
           "source": "华尔街见闻-快讯",
@@ -65,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -89,6 +122,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
           "url": "https://wallstreetcn.com/livenews/3062468",
           "source": "华尔街见闻-快讯",
@@ -106,7 +150,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
