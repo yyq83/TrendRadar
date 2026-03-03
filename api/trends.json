@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T16:35:11.859253+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-03-03T17:37:41.691427+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "url": "https://www.cls.cn/detail/2300871",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时37分]"
         },
         {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
