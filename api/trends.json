@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-04T00:41:19.668177+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-04T01:40:07.249389+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
+          "url": "https://wallstreetcn.com/livenews/3062902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://yyq83.github.io/TrendRadar/img/news.jpg"
 }
