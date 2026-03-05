@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T03:19:43.409057+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-03-06T04:33:12.704321+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -23,11 +23,24 @@
           "url": "https://wallstreetcn.com/livenews/3064630",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时33分]"
+        },
+        {
+          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
+          "url": "https://wallstreetcn.com/livenews/3064629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时33分]"
         },
         {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
@@ -36,18 +49,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
-          "url": "https://wallstreetcn.com/livenews/3064629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
