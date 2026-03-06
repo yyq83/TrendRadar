@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:42:14.115719+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-03-06T14:41:32.362714+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 14时41分]"
         },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
@@ -40,8 +40,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时41分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -96,7 +96,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
