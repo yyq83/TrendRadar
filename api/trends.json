@@ -1,105 +1,22 @@
 {
-  "generated_at": "2026-03-06T23:33:32.627506+08:00",
-  "total_titles_processed": 2030,
+  "generated_at": "2026-03-07T00:36:01.189020+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时45分 ~ 23时33分]"
-        },
-        {
-          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
-          "url": "https://flash.jin10.com/detail/20260306025523028800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时41分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
-          "url": "https://wallstreetcn.com/livenews/3064630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时33分]"
-        },
-        {
-          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
-          "url": "https://wallstreetcn.com/livenews/3064629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时33分]"
-        },
-        {
-          "title": "号称最强模型 OpenAI GPT-5.4发布",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
-          "url": "https://flash.jin10.com/detail/20260306024056758800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3064859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     }
