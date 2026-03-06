@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T20:42:49.006304+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-06T21:52:09.424742+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时45分 ~ 20时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时45分 ~ 21时52分]"
         },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
